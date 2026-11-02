@@ -1,0 +1,18 @@
+{
+  "interval_seconds": 120,
+  "min_discount_percent": 0,
+  "keywords_include": [],
+  "keywords_exclude": ["expired", "منتهي"],
+  "affiliate": {"amazon_tag": ""},
+  "sources": [
+    {"name": "Slickdeals (US)", "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1", "enabled": true},
+    {"name": "Dealabs (FR)", "url": "https://www.dealabs.com/rss/hot", "enabled": true},
+    {"name": "HotUKDeals (UK)", "url": "https://www.hotukdeals.com/rss/hot", "enabled": true},
+    {"name": "mydealz (DE)", "url": "https://www.mydealz.de/rss/hot", "enabled": true},
+    {"name": "Reddit r/deals", "url": "https://www.reddit.com/r/deals/new/.rss", "enabled": true},
+    {"name": "Reddit r/amazondeals", "url": "https://www.reddit.com/r/amazondeals/new/.rss", "enabled": true},
+    {"name": "Reddit r/frugalmalefashion", "url": "https://www.reddit.com/r/frugalmalefashion/new/.rss", "enabled": true},
+    {"name": "Reddit r/frugalfemalefashion", "url": "https://www.reddit.com/r/frugalfemalefashion/new/.rss", "enabled": true},
+    {"name": "Reddit r/beautydeals", "url": "https://www.reddit.com/r/beautydeals/new/.rss", "enabled": true}
+  ]
+}
